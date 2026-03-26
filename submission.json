@@ -1,0 +1,7 @@
+{
+  "prompt" : "A single ancient tree photographed in cross-section, its growth rings visible. The inner rings from centuries ago are wide, evenly spaced, and rich warm brown. As the rings move outward toward the present, they become progressively thinner, more compressed, and darker — almost black at the outermost edge. The compression is severe and unsettling. Photorealistic macro photography, studio lighting, no text, no labels, no axes, no diagrams, no charts.",
+  "model" : "DALL-E 3",
+  "dataset_name" : "NASA GISS Surface Temperature Analysis (GISTEMP v4)",
+  "dataset_url" : "https://data.giss.nasa.gov/gistemp/",
+  "insight" : "Global surface temperatures have risen at an accelerating rate since industrialization, with the most extreme warming compressed into the last few decades."
+}
